@@ -27,17 +27,22 @@
 A base or a build plate is an essential component in the FDM process. It serves as the foundation on which the object is built layer by layer. The base is typically a flat surface that provides stability and adhesion for the printed part during the printing process.
 
 ## EXTRUDER:
-![image](https://github.com/AzeezBT/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150319523/64f84c27-f351-4396-8a2f-882792cf9b18)
-
+![image](https://github.com/AzeezBT/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150319523/c86027be-fde7-4c68-b308-0366995d56f3)
 The extruder is a fundamental component of a 3D printer. It is responsible for depositing and shaping the molten thermoplastic filament used to build the object layer by layer.
 
 ## MATERIAL SPOOL: 
-the material spool refers to the cylindrical spool or reel that holds the thermoplastic filament used for 3D printing. The filament is typically wound onto the spool and is fed into the extruder during the printing process.
+![image](https://github.com/AzeezBT/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150319523/2792347c-225e-4360-a856-8a5451a3eb03)
+
+The material spool refers to the cylindrical spool or reel that holds the thermoplastic filament used for 3D printing. The filament is typically wound onto the spool and is fed into the extruder during the printing process.
 
 ## FILAMENT: 
-filament refers to the thermoplastic material that is used as the raw material for 3D printing.
+![image](https://github.com/AzeezBT/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150319523/d1903acd-d47e-4b19-bdde-ad193c8281bd)
+
+Filament refers to the thermoplastic material that is used as the raw material for 3D printing.
 
 ## START PROCESS:
+![image](https://github.com/AzeezBT/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150319523/ae9a57f5-0b55-4339-81cd-eb29cc772294)
+
 Prepare the 3D Model: 
 Begin by creating or obtaining a 3D model of the object you want to print. This can be done using computer-aided design (CAD) software or by downloading pre-designed models from online repositories.
 
@@ -47,7 +52,7 @@ Use slicing software to convert the 3D model into a format that the 3D printer c
 ## Set Up the 3D Printer: 
 Ensure that your 3D printer is properly set up and calibrated. This involves tasks such as checking the bed leveling, verifying the nozzle height, and confirming the proper functioning of the printer's components.
 
-Prepare the Print Surface: 
+## Prepare the Print Surface: 
 Clean the print bed to remove any dust or debris. Depending on the printer and filament, you may need to apply adhesive, such as glue stick or hairspray, or use a specialized print surface like a heated bed or a removable magnetic base.
 
 ## Load Filament: 
@@ -69,7 +74,9 @@ During the printing process, keep an eye on the progress to ensure that everythi
 Once the print is complete, allow the object to cool down before removing it from the print bed. Depending on the filament and desired finish, you may need to perform additional post-processing steps, such as removing support structures, sanding, painting, or other surface treatments.
 
 ## STOP PROCESS:
-Pause the Print: 
+![image](https://github.com/AzeezBT/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150319523/e2c1674f-e308-4f1b-a12b-a00aa4f8fd6b)
+
+## Pause the Print: 
 If you need to temporarily stop the printing process, most 3D printers have a pause function. Use the printer's control panel or software interface to pause the print. This will halt the extrusion of filament and movement of the print head.
 
 ## Address the Issue: 
